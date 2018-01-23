@@ -1,0 +1,10 @@
+name = Inline Conditions
+description = Manage frequently used conditions through an attached field.
+package = Rules
+core = 7.x
+dependencies[] = rules
+
+; Information added by drush on 2015-01-15
+version = "7.x-1.0-alpha5+0-dev"
+project = "inline_conditions"
+datestamp = "1421306274"
